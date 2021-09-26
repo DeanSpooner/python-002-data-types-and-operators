@@ -1,4 +1,4 @@
-# Python 002 - Data Types, Operators
+# Python 002 - Data Types, Conversions, Rounding, Operators, f-Strings, Subscripting
 
 ## Data Types
 
